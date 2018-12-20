@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PkoMessageService", "PkoMessageService\PkoMessageService.csproj", "{C72B6E71-9AC7-479B-8CC5-C93294DE7AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartService", "StartService\StartService.csproj", "{5EFD60D3-9EBE-4D08-8F7B-A24CC9BF0B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72B6E71-9AC7-479B-8CC5-C93294DE7AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72B6E71-9AC7-479B-8CC5-C93294DE7AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72B6E71-9AC7-479B-8CC5-C93294DE7AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72B6E71-9AC7-479B-8CC5-C93294DE7AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFD60D3-9EBE-4D08-8F7B-A24CC9BF0B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFD60D3-9EBE-4D08-8F7B-A24CC9BF0B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFD60D3-9EBE-4D08-8F7B-A24CC9BF0B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFD60D3-9EBE-4D08-8F7B-A24CC9BF0B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3AEBC2-663A-4273-9457-8EC5D5DD357D}
+	EndGlobalSection
+EndGlobal
