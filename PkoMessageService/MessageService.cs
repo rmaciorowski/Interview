@@ -13,7 +13,7 @@ namespace PkoMessageService
     {
         private IValidator validator;
         public MessageResponse Send(MessageRequest message)
-        {
+        { 
             if (message == null)
                 return new MessageResponse { ErrorMessage = "request cannot be null", ReturnCode = ReturnCode.ValidationError };
 
